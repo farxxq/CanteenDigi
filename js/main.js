@@ -117,3 +117,10 @@
     
 })(jQuery);
 
+//Add to cart 
+ function toggle(){
+    var cart = document.getElementsByClassName('cart');
+    alert("button clicked")
+ }
+
+
